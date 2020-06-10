@@ -1,6 +1,8 @@
 # Repository for the Face Recognition App API<br /> 
 Based in Node.js, using Express.js<br />
 
+Frontend: https://github.com/Esemega/facerecognitionbrain
+
 ----------------------------------------------------------------------
 ## Available Scripts
 
